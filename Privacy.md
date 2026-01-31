@@ -1,3 +1,5 @@
+[Back to README](README.md)
+
 # Privacy Policy
 
 **Last Updated: January 31, 2026**
