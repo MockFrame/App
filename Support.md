@@ -67,9 +67,9 @@ Ensure you're selecting PNG format for maximum quality. JPEG compression may red
 
 For additional support or to report issues:
 
-**Email**: [your-email@example.com]
+**Email**: [mockframe.app@proton.me]
 
-**GitHub Issues**: [github.com/yourusername/mockframe/issues](https://github.com/yourusername/mockframe/issues)
+**GitHub Issues**: [github.com/yourusername/mockframe/issues](https://github.com/MockFrame/App/issues)
 
 ## Version History
 
