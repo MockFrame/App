@@ -34,7 +34,7 @@ Available on the [App Store](https://apps.apple.com/app/mockframe).
 
 ## Support
 
-Need help? Check out our [Support Page](SUPPORT.md) for:
+Need help? Check out our [Support Page](Support.md) for:
 - Getting started guide
 - Frequently asked questions
 - Troubleshooting tips
@@ -44,7 +44,7 @@ Need help? Check out our [Support Page](SUPPORT.md) for:
 
 MockFrame does not collect any data. All image processing happens locally on your device.
 
-Read our full [Privacy Policy](PRIVACY.md).
+Read our full [Privacy Policy](Privacy.md).
 
 ## Contact
 
