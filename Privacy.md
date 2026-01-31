@@ -43,6 +43,6 @@ If we update this privacy policy, we will post the new policy on this page and u
 
 If you have questions about this privacy policy, please contact us at:
 
-**Email**: [your-email@example.com]
+**Email**: [mockframe.app@proton.me]
 
-**GitHub**: [github.com/yourusername/mockframe](https://github.com/yourusername/mockframe)
+**GitHub**: [github.com/MockFrame/App](https://github.com/MockFrame/App)
